@@ -1,0 +1,16 @@
+package Polymorphism;
+
+public class Phone {
+	
+	public void takeVideo(String recording)
+	{
+		System.out.println(recording + " of ocean");
+	}
+
+	public static void main(String[] args) {
+		Phone ph = new Phone();
+		ph.takeVideo("recording");
+	
+	}
+	
+}
