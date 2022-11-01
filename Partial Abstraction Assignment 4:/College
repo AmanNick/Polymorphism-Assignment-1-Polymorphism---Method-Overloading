@@ -1,0 +1,21 @@
+package Polymorphism;
+
+public class College extends University {
+
+	public static void main(String[] args) {
+
+	}
+
+	@Override
+	public void pg() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void ug() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
