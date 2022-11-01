@@ -1,0 +1,13 @@
+package Polymorphism;
+
+public abstract class University {
+	
+	public abstract void pg();
+	{
+		System.out.println("This is pg in University");
+	}
+	
+	public abstract void ug();
+	
+
+}
