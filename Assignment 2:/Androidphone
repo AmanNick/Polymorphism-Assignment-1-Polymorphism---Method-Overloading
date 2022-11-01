@@ -1,0 +1,11 @@
+package Polymorphism;
+
+public class Androidphone extends Phone{
+	
+
+	public static void main(String[] args) {
+		Androidphone ap = new Androidphone();
+				ap.takeVideo("Recording");
+	}
+
+}
